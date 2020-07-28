@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_size_entries">
+        <item>@string/pref_size_entry_small</item>
+        <item>@string/pref_size_entry_medium</item>
+        <item>@string/pref_size_entry_large</item>
+    </string-array>
+
+    <string-array name="pref_size_values">
+        <item>@string/pref_size_value_small</item>
+        <item>@string/pref_size_value_medium</item>
+        <item>@string/pref_size_value_large</item>
+    </string-array>
+
+    <string-array name="pref_show_entries">
+        <item>@string/pref_show_entry_trending</item>
+        <item>@string/pref_show_entry_custom</item>
+    </string-array>
+
+    <string-array name="pref_show_values">
+        <item>@string/pref_show_value_trending</item>
+        <item>@string/pref_show_value_custom</item>
+    </string-array>
+</resources>
